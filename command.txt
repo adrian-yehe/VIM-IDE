@@ -1,0 +1,3 @@
+#Install the all plug-in
+vim +BundleInstall +qall
+
