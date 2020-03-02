@@ -4,8 +4,11 @@ call vundle#rc()
 
 
 " Define bundles via Github repos "
+Plugin 'samoshkin/vim-mergetool'
 Plugin 'scrooloose/nerdtree'
+Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'christoomey/vim-run-interactive'
+Bundle 'vbundles/ctrlp'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'croaky/vim-colors-github'
 Plugin 'danro/rename.vim'
